@@ -70,8 +70,10 @@ Compare the simulation results with the theoretical calculations and discuss any
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
-![WhatsApp Image 2026-02-11 at 10 43 46 AM](https://github.com/user-attachments/assets/f1661804-7276-4266-b083-4b9d17013351)
-![WhatsApp Image 2026-02-11 at 10 43 54 AM](https://github.com/user-attachments/assets/4ac5d312-75e9-4fa5-8f27-593fed6a53ae)
+## Calculation
+![WhatsApp Image 2026-02-11 at 11 03 29 AM](https://github.com/user-attachments/assets/d78ab32e-08d1-4a6a-abb8-f51a2b8444c6)
+![WhatsApp Image 2026-02-11 at 11 03 30 AM](https://github.com/user-attachments/assets/a9439854-b828-41d7-8788-676da985d9fe)
+
 
 ## Result
 Hence,the results predicted by the linear system model of an optical fiber with the results of simulation
